@@ -1,0 +1,32 @@
+A music player for the audio files on your phone: simple, fast, no clutter. The interface is in Italian.
+
+<b>No ads, no account, no internet.</b> The app does not even have the permission to connect to the internet: your music and your habits stay on your phone.
+
+<b>Your library</b>
+<ul>
+<li>Tabs for Songs, Playlists, Folders, Albums (with cover art), Artists and Genres</li>
+<li>Search across the whole library: artists, albums and songs together</li>
+<li>Sort by title, artist, album or recently added</li>
+<li>WhatsApp and Telegram voice notes and audio are excluded automatically</li>
+<li>Choose folders to exclude, and hide files that are too short (ringtones, notification sounds)</li>
+</ul>
+
+<b>Playback</b>
+<ul>
+<li>Background playback with controls in the notification and on the lock screen</li>
+<li>Queue: swipe a song to the right to add it, or use the menu; the queue can be reordered and cleared</li>
+<li>Shuffle, repeat all or one, sleep timer</li>
+<li>Playback speed from 0.5× to 2× without changing the pitch</li>
+<li>Equalizer with a draggable curve, presets, bass boost and spatial effect</li>
+<li>Favorites and custom playlists</li>
+<li>Resumes from the last song, where you left off</li>
+</ul>
+
+<b>Look</b>
+<ul>
+<li>Light, dark or system theme</li>
+<li>Five ready-made color profiles, each with a light and a dark version</li>
+<li>Every single color can be customized, with a live preview</li>
+</ul>
+
+Works on Android 8 and later. Permissions: read audio files, notifications (optional, for the playback controls), background playback and equalizer.

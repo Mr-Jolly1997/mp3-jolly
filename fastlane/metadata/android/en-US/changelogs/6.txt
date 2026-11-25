@@ -1,0 +1,6 @@
+First public release.
+- Library with songs, playlists, folders, albums, artists and genres
+- Queue with swipe to add and clear queue
+- Playback speed and equalizer
+- Excludes WhatsApp, Telegram and chosen folders
+- Light/dark theme and five customizable color profiles

@@ -1,0 +1,6 @@
+Prima versione pubblicata.
+- Libreria con brani, playlist, cartelle, album, artisti e generi
+- Coda con scorrimento per aggiungere, svuota coda
+- Velocità di riproduzione ed equalizzatore
+- Esclusione di WhatsApp, Telegram e cartelle a scelta
+- Tema chiaro/scuro e cinque profili colore personalizzabili

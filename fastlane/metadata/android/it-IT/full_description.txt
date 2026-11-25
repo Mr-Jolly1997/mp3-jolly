@@ -1,0 +1,32 @@
+Un lettore musicale per i file audio che hai sul telefono: semplice, veloce, senza fronzoli.
+
+<b>Niente pubblicità, niente account, niente internet.</b> L'app non ha nemmeno il permesso di connettersi a internet: la tua musica e le tue abitudini restano sul telefono.
+
+<b>La tua libreria</b>
+<ul>
+<li>Schede Brani, Playlist, Cartelle, Album (con copertine), Artisti e Generi</li>
+<li>Ricerca in tutta la libreria: artisti, album e brani insieme</li>
+<li>Ordinamento per titolo, artista, album o aggiunti di recente</li>
+<li>Esclusione automatica di note vocali e audio di WhatsApp e Telegram</li>
+<li>Cartelle da escludere a scelta e filtro per i file troppo brevi (suonerie, notifiche)</li>
+</ul>
+
+<b>Riproduzione</b>
+<ul>
+<li>Musica a schermo spento, con i comandi nelle notifiche e sulla schermata di blocco</li>
+<li>Coda: scorri un brano verso destra per aggiungerlo, oppure usa il menu; la coda si può riordinare e svuotare</li>
+<li>Casuale, ripeti tutto o un brano, timer di spegnimento</li>
+<li>Velocità da 0,5× a 2× senza cambiare il tono della voce</li>
+<li>Equalizzatore con curva da trascinare, stili predefiniti, potenziamento dei bassi ed effetto spaziale</li>
+<li>Preferiti e playlist personali</li>
+<li>Riprende dall'ultimo brano, nel punto in cui eri</li>
+</ul>
+
+<b>Aspetto</b>
+<ul>
+<li>Tema chiaro, scuro o come il sistema</li>
+<li>Cinque profili colore pronti, con versione chiara e scura</li>
+<li>Ogni colore personalizzabile uno per uno, con anteprima dal vivo</li>
+</ul>
+
+Funziona da Android 8 in su. Permessi richiesti: lettura dei file audio, notifiche (facoltativo, per i comandi), riproduzione in background ed equalizzatore.
