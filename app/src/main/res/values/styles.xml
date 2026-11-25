@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Dialog.Lettore.Dark" parent="@android:style/Theme.Material.Dialog.Alert" />
+    <style name="Dialog.Lettore.Light" parent="@android:style/Theme.Material.Light.Dialog.Alert" />
+
+    <style name="Theme.Lettore.Dark" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">#FF0E0E11</item>
+        <item name="android:colorPrimaryDark">#FF0E0E11</item>
+        <item name="android:colorAccent">#FF4DB6AC</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">#FF0E0E11</item>
+        <item name="android:navigationBarColor">#FF0E0E11</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:alertDialogTheme">@style/Dialog.Lettore.Dark</item>
+        <item name="android:colorControlHighlight">#22FFFFFF</item>
+    </style>
+
+    <style name="Theme.Lettore.Light" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">#FFF5F5F7</item>
+        <item name="android:colorPrimaryDark">#FFF5F5F7</item>
+        <item name="android:colorAccent">#FF00897B</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:statusBarColor">#FFF5F5F7</item>
+        <item name="android:navigationBarColor">#FFF5F5F7</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:alertDialogTheme">@style/Dialog.Lettore.Light</item>
+        <item name="android:colorControlHighlight">#1F000000</item>
+    </style>
+</resources>

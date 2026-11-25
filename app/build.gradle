@@ -1,0 +1,40 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'it.lettore.mp3'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId "io.github.mr_jolly1997.mp3jolly"
+        minSdk 26
+        targetSdk 36
+        versionCode 6
+        versionName "6.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled = false
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    lint {
+        checkReleaseBuilds = false
+        abortOnError = false
+    }
+
+    // Niente blocco "dependency info" firmato da Google nell'APK (richiesto da F-Droid).
+    dependenciesInfo {
+        includeInApk = false
+        includeInBundle = false
+    }
+}
+
+// L'app non usa librerie esterne: solo l'SDK di Android.
